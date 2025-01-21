@@ -1,4 +1,4 @@
-<header>
+<Yamin>
 
 <!--
   <<< Author notes: Course header >>>
